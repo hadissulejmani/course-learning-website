@@ -49,8 +49,9 @@ h1 {
 }
 
 p {
-    font
-    flex-basis: 100%;size: 15px;
+    font-weight: 400;
+    flex-basis: 100%;
+    size: 15px;
     line-height: 18px;
     color: #777;
 }
@@ -148,10 +149,9 @@ nav ul li a {
 }
 
 .about-text blockquote > p {
-    font-size: 25px;
+    font-size: 20px;
     color: black;
     line-height: 1;
-    font-style: italic;
 }
 
 .about-text figcaption {
